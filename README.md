@@ -1,11 +1,17 @@
-Pulsatile
-=========
+poppulsatile
+============
 
-[![Build Status](https://travis-ci.org/BayesPulse/poppulsatile.svg?branch=master)](https://travis-ci.org/BayesPulse/poppulsatile) [![codecov](https://codecov.io/gh/BayesPulse/poppulsatile/branch/master/graph/badge.svg)](https://codecov.io/gh/BayesPulse/poppulsatile)
+[![Build
+Status](https://travis-ci.org/BayesPulse/poppulsatile.svg?branch=master)](https://travis-ci.org/BayesPulse/poppulsatile)
+[![codecov](https://codecov.io/gh/BayesPulse/poppulsatile/branch/master/graph/badge.svg)](https://codecov.io/gh/BayesPulse/poppulsatile)
 
-An R package for analyzing time series of hormone concentrations using Bayesian deconvolution analysis. This package extends (and refactors) the single-subject model to multiple subjects and up to two-hormones per patient (driver and response hormones).
+An R package for analyzing time series of hormone concentrations using
+Bayesian deconvolution analysis. This package extends (and refactors)
+the single-subject model to multiple subjects and up to two-hormones per
+patient (driver and response hormones).
 
-The package is currently in development and not yet functional, but feel free to take a look around.
+The package is currently in development and not yet functional, but feel
+free to take a look around.
 
 Run the following code to install the development version:
 
